@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "87184420065",
+    "project_id": "getx-tutorial-2c2b5",
+    "storage_bucket": "getx-tutorial-2c2b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87184420065:android:043e64dfddf23caae05ba0",
+        "android_client_info": {
+          "package_name": "com.kawish.getx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBveiJcFF60IbLnZFipptx6BT3MTNS4uHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
